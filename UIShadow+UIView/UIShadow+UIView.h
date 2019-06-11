@@ -12,13 +12,17 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface  UIView(UIShadow_UIImageView)
 
-@property (nonatomic, strong) CALayer   *shadow_layer;
+@property (nonatomic, strong, nullable) CALayer   *shadow_layer;
 
-- (void)showShadowLayer;
+@property (nonatomic, strong) UIColor   *shadow_color;
+@property (nonatomic, assign) CGSize    shadow_offset;
+@property (nonatomic, assign) CGFloat   shadow_radius;
+@property (nonatomic, assign) CGFloat   shadow_corner_radius;
+@property (nonatomic, assign) CGFloat   shadow_opacity;
+@property (nonatomic, assign) CGPathRef shadow_path;
+@property (nonatomic, getter=isShowShadowLayer) BOOL showShadowLayer;
 
-- (void)removeShadowLayer;
-
-- (void)shadow_setBounds:(CGRect)bounds;
+- (void)showDefaultShadow;
 
 @end
 
