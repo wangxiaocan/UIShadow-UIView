@@ -15,3 +15,4 @@ _coverImgView.layer.cornerRadius = 6.0;
 [self.view addSubview:_coverImgView];
 [_coverImgView showShadowLayer];
 ```
+![img](https://github.com/wangxiaocan/UIShadow-UIView/blob/master/IMG_3253.png)
