@@ -8,7 +8,7 @@ s.homepage = "https://github.com/wangxiaocan/UIShadow-UIView"
 s.authors = { "xiaocan" => "1217272889@qq.com" }
 s.source = { :git => "https://github.com/wangxiaocan/UIShadow-UIView.git", :tag => "#{s.version}" }
 s.requires_arc = true
-s.source_files = "*.{h,m}"
-s.public_header_files = "UIShadow+UIView.h"
+s.source_files = "UIShadow+UIView/*.{h,m}"
+s.public_header_files = "UIShadow+UIView/UIShadow+UIView.h"
 s.frameworks = "UIKit"
 end
