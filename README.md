@@ -22,3 +22,5 @@ _coverImgView.showShadowLayer = YES;
 //    [_coverImgView showDefaultShadow];
 ```
 ![img](https://github.com/wangxiaocan/UIShadow-UIView/blob/master/IMG_3253.png)
+
+[文章地址](https://www.jianshu.com/p/8a249043df02)
