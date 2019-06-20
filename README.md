@@ -3,6 +3,9 @@
 - [https://www.jianshu.com/p/8a249043df02](https://www.jianshu.com/p/8a249043df02)
 
 
+<img src='https://github.com/wangxiaocan/UIShadow-UIView/blob/master/IMG_3253.png' width='300px'/>
+
+
 ### how to use
 
 > #import "UIShadow+UIView.h"
@@ -22,6 +25,6 @@ _coverImgView.showShadowLayer = YES;
 //    or use below function
 //    [_coverImgView showDefaultShadow];
 ```
-![img](https://github.com/wangxiaocan/UIShadow-UIView/blob/master/IMG_3253.png)
+
 
 
