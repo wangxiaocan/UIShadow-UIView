@@ -3,7 +3,7 @@
 - [https://www.jianshu.com/p/8a249043df02](https://www.jianshu.com/p/8a249043df02)
 
 
-<img src='https://github.com/wangxiaocan/UIShadow-UIView/blob/master/IMG_3253.png' width='300px'/>
+<img src='https://github.com/wangxiaocan/UIShadow-UIView/blob/master/IMG_3253.png' width='300px' alt='效果图'/>
 
 
 ### how to use
