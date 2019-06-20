@@ -6,7 +6,7 @@
 ##### pod 导入
 > pod  'UIShadow+UIView'
 
-#### 下载解压，拖入UIShadow+UIView文件夹到你的项目
+#### 或者解压下载的文件，拖入UIShadow+UIView文件夹到你的项目
 
 > 使用时导入头文件 UIShadow+UIView.h
 
