@@ -3,6 +3,14 @@
 - [https://www.jianshu.com/p/8a249043df02](https://www.jianshu.com/p/8a249043df02)
 
 
+##### pod 导入
+> pod  'UIShadow+UIView'
+
+#### 下载解压，拖入UIShadow+UIView文件夹到你的项目
+
+> 使用时导入头文件 UIShadow+UIView.h
+
+
 <img src='https://github.com/wangxiaocan/UIShadow-UIView/blob/master/IMG_3253.png' width='300px' alt='效果图'/>
 
 
