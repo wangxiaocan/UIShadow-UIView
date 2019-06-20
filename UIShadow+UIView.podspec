@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name = "UIShadow+UIView"
-s.version = "1.0.0"
+s.version = "1.0"
 s.license = { :type => "MIT", :file => "LICENSE" }
 s.platform = :ios, "8.0"
 s.summary = "UIShadow+UIView"
